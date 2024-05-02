@@ -11,3 +11,8 @@ h2 {
     color: coral;
     text-shadow: 1px 1px 1px black;
 }
+
+img {
+    height: auto;
+    width: 600px;
+}
